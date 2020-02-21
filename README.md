@@ -1,2 +1,4 @@
-# zairza-events
-Managing events of the aceademic year in the zairza website itself.
+## RNG
+React-Node-Golang scaffolding tool.
+
+Created solely for the use case of [Zairza](http://www.zairza.in)
